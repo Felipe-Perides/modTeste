@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 21
+Bundle-SymbolicName: fabric-example-mod-1.21
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-22
+Automatic-Module-Name: fabric.example.mod
+Export-Package: com.example,
+ com.example.mixin,
+ com.example.mixin.client,
+ net.felipe.tutorialmod
